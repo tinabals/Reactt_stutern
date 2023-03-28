@@ -1,5 +1,5 @@
 function Main() {
-  const country = 'India';
+  const country = 'Nigeria';
 
   return (
     <main>
